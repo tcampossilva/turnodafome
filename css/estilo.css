@@ -34,7 +34,7 @@ p{
 #principal{
     display: block;
     background-color: #1D0B3B;
-    width: 88vw;
+    width: 95vw;
     height: auto;
     margin: 0 auto;
     border-radius: 15px;
@@ -105,4 +105,5 @@ p.texto{
     padding-left: 5px;
 
 }
+
 
